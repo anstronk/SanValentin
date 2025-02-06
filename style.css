@@ -93,19 +93,19 @@ body {
     align-items: center;
 
     & h1{
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         font-weight: 500;
     }
 
     & h2{
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         font-weight: 500;
     }
 
     & h3{
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         font-weight: 500;
     }
